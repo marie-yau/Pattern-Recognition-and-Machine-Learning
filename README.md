@@ -1,4 +1,5 @@
-Table of Contents:
+# Table of Contents:
+
 1. Introduction
 2. Probability Distributions
 3. Linear Models for Regression
